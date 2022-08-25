@@ -30,6 +30,11 @@
       "static/chunks/main.js",
       "static/chunks/pages/detail.js"
     ],
+    "/home": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/home.js"
+    ],
     "/users": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
